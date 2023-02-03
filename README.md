@@ -46,9 +46,4 @@ Few words about me... electrical enginner by profession, amateur mix martial art
 </div>
 
 [//]: # (<br/>)
-
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Synvoret.Synvoret)
-
-</details>
+   
