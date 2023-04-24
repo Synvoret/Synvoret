@@ -11,13 +11,13 @@ I'm Łukasz Szabat, new to the python environment and motivated to adventure wit
 
 - 🔭 I’m currently working **expanding my own knowledge**.
 
-[//]: # (- 🤝 I’m looking for help with **first work!**)
+- 🤝 I’m looking for help with **first work!**: 0% experience, 100% motivation.
 
 - 📫 How to reach me: synvoret@gmail.com.
 
 [//]: # (- 😄 Pronouns: ...)
 
-[//]: # (- ⚡ Fun fact: Board Games and mix martial arts.)
+- ⚡ Hobbies: Board Games and mix martial arts.
 
 #### Top Technologies
 
